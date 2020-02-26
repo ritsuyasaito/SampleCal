@@ -22,6 +22,9 @@ class ViewController: UIViewController {
         number += 1
     }
 
+    func a(){
+        
+    }
 
 }
 
