@@ -36,7 +36,11 @@ class ViewController: UIViewController {
     }
     
     func b(){
-        
+        print("c")
+    }
+    
+    func minus() {
+        number = number - 1
     }
 
 }
