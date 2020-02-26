@@ -34,6 +34,10 @@ class ViewController: UIViewController {
     func a(){
         print("a")
     }
+    
+    func b(){
+        
+    }
 
 }
 
