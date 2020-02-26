@@ -36,11 +36,17 @@ class ViewController: UIViewController {
     }
     
     func b(){
-        print("c")
+
+      print("c")
+      print("!!!conflict!!!")
     }
     
     func minus() {
         number = number - 1
+
+        
+        
+
     }
 
 }
