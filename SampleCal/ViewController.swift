@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    @IBAction add() {
+    @IBAction func add() {
         
         number += 1
     }
