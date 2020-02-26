@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		240B9BFA240639E100FF7FB3 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240B9BF9240639E100FF7FB3 /* SecondViewController.swift */; };
 		24994E8224017D2300FA04CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24994E8124017D2300FA04CD /* AppDelegate.swift */; };
 		24994E8424017D2300FA04CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24994E8324017D2300FA04CD /* SceneDelegate.swift */; };
 		24994E8624017D2300FA04CD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24994E8524017D2300FA04CD /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		240B9BF9240639E100FF7FB3 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		24994E7E24017D2300FA04CD /* SampleCal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleCal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		24994E8124017D2300FA04CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		24994E8324017D2300FA04CD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				24994E8124017D2300FA04CD /* AppDelegate.swift */,
 				24994E8324017D2300FA04CD /* SceneDelegate.swift */,
 				24994E8524017D2300FA04CD /* ViewController.swift */,
+				240B9BF9240639E100FF7FB3 /* SecondViewController.swift */,
 				24994E8724017D2300FA04CD /* Main.storyboard */,
 				24994E8A24017D2700FA04CD /* Assets.xcassets */,
 				24994E8C24017D2700FA04CD /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				240B9BFA240639E100FF7FB3 /* SecondViewController.swift in Sources */,
 				24994E8624017D2300FA04CD /* ViewController.swift in Sources */,
 				24994E8224017D2300FA04CD /* AppDelegate.swift in Sources */,
 				24994E8424017D2300FA04CD /* SceneDelegate.swift in Sources */,
