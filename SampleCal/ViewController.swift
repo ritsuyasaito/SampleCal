@@ -21,6 +21,12 @@ class ViewController: UIViewController {
         
         number += 1
     }
+    
+    func test(){
+        
+    }
+    
+    
 
     func a(){
         
